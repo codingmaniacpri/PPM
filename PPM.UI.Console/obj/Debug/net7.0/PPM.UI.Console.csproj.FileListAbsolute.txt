@@ -1,0 +1,17 @@
+C:\Prolifics Project Manager\PPM.UI.Console\obj\Debug\net7.0\PPM.UI.Console.csproj.AssemblyReference.cache
+C:\Prolifics Project Manager\PPM.UI.Console\obj\Debug\net7.0\PPM.UI.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prolifics Project Manager\PPM.UI.Console\obj\Debug\net7.0\PPM.UI.Console.AssemblyInfoInputs.cache
+C:\Prolifics Project Manager\PPM.UI.Console\obj\Debug\net7.0\PPM.UI.Console.AssemblyInfo.cs
+C:\Prolifics Project Manager\PPM.UI.Console\obj\Debug\net7.0\PPM.UI.Console.csproj.CoreCompileInputs.cache
+C:\Prolifics Project Manager\PPM.UI.Console\bin\Debug\net7.0\PPM.UI.Console.deps.json
+C:\Prolifics Project Manager\PPM.UI.Console\bin\Debug\net7.0\PPM.UI.Console.dll
+C:\Prolifics Project Manager\PPM.UI.Console\bin\Debug\net7.0\PPM.UI.Console.pdb
+C:\Prolifics Project Manager\PPM.UI.Console\bin\Debug\net7.0\PPM.Domain.dll
+C:\Prolifics Project Manager\PPM.UI.Console\bin\Debug\net7.0\PPM.Model.dll
+C:\Prolifics Project Manager\PPM.UI.Console\bin\Debug\net7.0\PPM.Domain.pdb
+C:\Prolifics Project Manager\PPM.UI.Console\bin\Debug\net7.0\PPM.Model.pdb
+C:\Prolifics Project Manager\PPM.UI.Console\obj\Debug\net7.0\PPM.UI.Console.csproj.CopyComplete
+C:\Prolifics Project Manager\PPM.UI.Console\obj\Debug\net7.0\PPM.UI.Console.dll
+C:\Prolifics Project Manager\PPM.UI.Console\obj\Debug\net7.0\refint\PPM.UI.Console.dll
+C:\Prolifics Project Manager\PPM.UI.Console\obj\Debug\net7.0\PPM.UI.Console.pdb
+C:\Prolifics Project Manager\PPM.UI.Console\obj\Debug\net7.0\ref\PPM.UI.Console.dll

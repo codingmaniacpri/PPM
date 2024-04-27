@@ -1,0 +1,12 @@
+C:\Prolifics Project Manager\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+C:\Prolifics Project Manager\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+C:\Prolifics Project Manager\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+C:\Prolifics Project Manager\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+C:\Prolifics Project Manager\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prolifics Project Manager\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+C:\Prolifics Project Manager\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+C:\Prolifics Project Manager\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+C:\Prolifics Project Manager\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+C:\Prolifics Project Manager\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+C:\Prolifics Project Manager\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+C:\Prolifics Project Manager\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll

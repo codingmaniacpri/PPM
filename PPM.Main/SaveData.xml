@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Projects>
+    <ProjectId>1</ProjectId>
+    <ProjectName>p</ProjectName>
+    <StartDate>2023-03-20T00:00:00</StartDate>
+    <EndDate>2024-06-21T00:00:00</EndDate>
+    <employeeprojectlist>
+      <int>1</int>
+    </employeeprojectlist>
+  </Projects>
+</ArrayOfProjects><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employees>
+    <EmployeeId>1</EmployeeId>
+    <FirstName>tom</FirstName>
+    <LastName>james</LastName>
+    <Email>tj@gmnail.com</Email>
+    <EmployeeContactNumber>7894561230</EmployeeContactNumber>
+    <Address>street 7, washington</Address>
+    <RoleId>1</RoleId>
+    <ProjectId>1</ProjectId>
+  </Employees>
+</ArrayOfEmployees><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRole xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Role>
+    <RoleId>1</RoleId>
+    <RoleName>m1</RoleName>
+  </Role>
+</ArrayOfRole>
